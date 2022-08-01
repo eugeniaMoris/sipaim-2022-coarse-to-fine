@@ -1,0 +1,361 @@
+,vCDR,Diagnosis,User
+0,0.7049180327868856,Glaucomatous,User 0
+1,0.6125000000000002,Glaucomatous,User 0
+2,0.49514563106796106,Glaucomatous,User 0
+3,0.5588235294117648,Glaucomatous,User 0
+4,0.5806451612903226,Glaucomatous,User 0
+5,0.6288659793814435,Glaucomatous,User 0
+6,0.7575757575757578,Glaucomatous,User 0
+7,0.5360824742268041,Glaucomatous,User 0
+8,0.6944444444444445,Glaucomatous,User 0
+9,0.4823529411764706,Glaucomatous,User 0
+10,0.5396825396825397,Glaucomatous,User 0
+11,0.48913043478260865,Glaucomatous,User 0
+12,0.5764705882352937,Glaucomatous,User 0
+13,0.5166666666666665,Glaucomatous,User 0
+14,0.49425287356321856,Glaucomatous,User 0
+15,0.6140350877192985,Glaucomatous,User 0
+16,0.709677419354839,Glaucomatous,User 0
+17,0.5909090909090908,Glaucomatous,User 0
+18,0.5681818181818183,Glaucomatous,User 0
+19,0.6463414634146338,Glaucomatous,User 0
+20,0.6049382716049383,Non-glaucomatous,User 0
+21,0.6,Non-glaucomatous,User 0
+22,0.2615384615384615,Non-glaucomatous,User 0
+23,0.4782608695652174,Non-glaucomatous,User 0
+24,0.44144144144144154,Non-glaucomatous,User 0
+25,0.47826086956521746,Non-glaucomatous,User 0
+26,0.4456521739130433,Non-glaucomatous,User 0
+27,1.018888888888889,Non-glaucomatous,User 0
+28,0.4393939393939396,Non-glaucomatous,User 0
+29,0.368421052631579,Non-glaucomatous,User 0
+30,1.028312570781427,Non-glaucomatous,User 0
+31,0.4032258064516128,Non-glaucomatous,User 0
+32,0.3620689655172412,Non-glaucomatous,User 0
+33,0.3146067415730337,Non-glaucomatous,User 0
+34,0.37962962962962976,Non-glaucomatous,User 0
+35,0.37704918032786905,Non-glaucomatous,User 0
+36,0.3974358974358976,Non-glaucomatous,User 0
+37,0.37288135593220306,Non-glaucomatous,User 0
+38,0.4252873563218393,Non-glaucomatous,User 0
+39,0.45312499999999994,Non-glaucomatous,User 0
+0,0.7627118646599804,Glaucomatous,User 1
+1,0.7865168537597843,Glaucomatous,User 1
+2,0.7425742566238561,Glaucomatous,User 1
+3,0.73015873019937,Glaucomatous,User 1
+4,0.5909090906037956,Glaucomatous,User 1
+5,0.6739130433228102,Glaucomatous,User 1
+6,0.7384615383589049,Glaucomatous,User 1
+7,0.6373626375036237,Glaucomatous,User 1
+8,0.7536231884154767,Glaucomatous,User 1
+9,0.716049382720791,Glaucomatous,User 1
+10,0.4406779660911811,Glaucomatous,User 1
+11,0.5730337070347146,Glaucomatous,User 1
+12,0.6951219512058043,Glaucomatous,User 1
+13,0.43333333330191137,Glaucomatous,User 1
+14,0.4838709677845634,Glaucomatous,User 1
+15,0.5964912280308278,Glaucomatous,User 1
+16,0.7377049180014364,Glaucomatous,User 1
+17,0.6562499998451276,Glaucomatous,User 1
+18,0.8026315790151887,Glaucomatous,User 1
+19,0.8421052637333711,Glaucomatous,User 1
+20,0.6067415728587744,Non-glaucomatous,User 1
+21,0.42352941152614376,Non-glaucomatous,User 1
+22,0.29230769204957935,Non-glaucomatous,User 1
+23,0.5142857140616475,Non-glaucomatous,User 1
+24,0.5087719310114818,Non-glaucomatous,User 1
+25,0.6413043478701905,Non-glaucomatous,User 1
+26,0.636363636395376,Non-glaucomatous,User 1
+27,0.3392857154574702,Non-glaucomatous,User 1
+28,0.39682539674411704,Non-glaucomatous,User 1
+29,0.4464285717426932,Non-glaucomatous,User 1
+30,0.4077669907449149,Non-glaucomatous,User 1
+31,0.38461538446379684,Non-glaucomatous,User 1
+32,0.3333333333333333,Non-glaucomatous,User 1
+33,0.5697674407163498,Non-glaucomatous,User 1
+34,0.3428571429043605,Non-glaucomatous,User 1
+35,0.44067796640133045,Non-glaucomatous,User 1
+36,0.3750000003200407,Non-glaucomatous,User 1
+37,0.42857142838470624,Non-glaucomatous,User 1
+38,0.4512195120671819,Non-glaucomatous,User 1
+39,0.4920634922356147,Non-glaucomatous,User 1
+0,0.7491749173947121,Glaucomatous,User 2
+1,0.711864406717618,Glaucomatous,User 2
+2,0.4555984559471772,Glaucomatous,User 2
+3,0.6506410259183568,Glaucomatous,User 2
+4,0.6548463357734422,Glaucomatous,User 2
+5,0.7394136805879169,Glaucomatous,User 2
+6,13.766417050811814,Glaucomatous,User 2
+7,0.6581469648888894,Glaucomatous,User 2
+8,0.7531380751331614,Glaucomatous,User 2
+9,0.5694444443715374,Glaucomatous,User 2
+10,0.5451388888842935,Glaucomatous,User 2
+11,0.6883408076688289,Glaucomatous,User 2
+12,0.5270588233381007,Glaucomatous,User 2
+13,0.5522875817559607,Glaucomatous,User 2
+14,0.6895833336305174,Glaucomatous,User 2
+15,0.7130584194428664,Glaucomatous,User 2
+16,0.7677725117012942,Glaucomatous,User 2
+17,0.7040229883987453,Glaucomatous,User 2
+18,0.8172043012355752,Glaucomatous,User 2
+19,0.79496402893561,Glaucomatous,User 2
+20,0.5941176471496077,Non-glaucomatous,User 2
+21,0.5729927007650869,Non-glaucomatous,User 2
+22,0.3632286995437621,Non-glaucomatous,User 2
+23,0.5232558140114614,Non-glaucomatous,User 2
+24,0.4717948710658892,Non-glaucomatous,User 2
+25,0.5627705624882582,Non-glaucomatous,User 2
+26,0.6019736840443426,Non-glaucomatous,User 2
+27,0.35937500169716985,Non-glaucomatous,User 2
+28,0.47317073149033106,Non-glaucomatous,User 2
+29,0.4066666667296588,Non-glaucomatous,User 2
+30,0.5018867920112515,Non-glaucomatous,User 2
+31,0.46116504859757684,Non-glaucomatous,User 2
+32,0.36413043493083,Non-glaucomatous,User 2
+33,0.390572392006498,Non-glaucomatous,User 2
+34,0.43956043982957893,Non-glaucomatous,User 2
+35,0.5358361775110284,Non-glaucomatous,User 2
+36,0.41365461826403316,Non-glaucomatous,User 2
+37,0.4461538461605281,Non-glaucomatous,User 2
+38,0.42307692300520944,Non-glaucomatous,User 2
+39,0.5475113120160393,Non-glaucomatous,User 2
+0,0.8527131784932397,Glaucomatous,User 3
+1,0.7285714287048154,Glaucomatous,User 3
+2,0.8078602630117808,Glaucomatous,User 3
+3,0.891509433889107,Glaucomatous,User 3
+4,0.7994011975677813,Glaucomatous,User 3
+5,0.7439446370250797,Glaucomatous,User 3
+6,0.8475177302700801,Glaucomatous,User 3
+7,0.6666666666666665,Glaucomatous,User 3
+8,0.8457446811502423,Glaucomatous,User 3
+9,0.7284482762203013,Glaucomatous,User 3
+10,0.7632850242151238,Glaucomatous,User 3
+11,0.8453608261028885,Glaucomatous,User 3
+12,0.7873303166616458,Glaucomatous,User 3
+13,0.8650793650281043,Glaucomatous,User 3
+14,0.7675438596551933,Glaucomatous,User 3
+15,0.7348066298089245,Glaucomatous,User 3
+16,0.8071748880384076,Glaucomatous,User 3
+17,0.7491638795973973,Glaucomatous,User 3
+18,0.8089887640149781,Glaucomatous,User 3
+19,0.8678160924278335,Glaucomatous,User 3
+20,0.5852272725323017,Non-glaucomatous,User 3
+21,0.6128205128896513,Non-glaucomatous,User 3
+22,0.38819875783383057,Non-glaucomatous,User 3
+23,0.5086956523677755,Non-glaucomatous,User 3
+24,0.5335820880663827,Non-glaucomatous,User 3
+25,0.6105769230121635,Non-glaucomatous,User 3
+26,0.6249999999565257,Non-glaucomatous,User 3
+27,0.39926739779764964,Non-glaucomatous,User 3
+28,0.40825688068220234,Non-glaucomatous,User 3
+29,0.43654822301263085,Non-glaucomatous,User 3
+30,0.4139194143936521,Non-glaucomatous,User 3
+31,0.47087378631246235,Non-glaucomatous,User 3
+32,0.3623693380460881,Non-glaucomatous,User 3
+33,0.41935483892330494,Non-glaucomatous,User 3
+34,0.39473684237169543,Non-glaucomatous,User 3
+35,0.5200000001301908,Non-glaucomatous,User 3
+36,0.4794007491992492,Non-glaucomatous,User 3
+37,0.46413502115158617,Non-glaucomatous,User 3
+38,0.525714285632566,Non-glaucomatous,User 3
+39,0.5870967743910256,Non-glaucomatous,User 3
+0,0.6999999997774058,Glaucomatous,User 4
+1,0.6831683169123328,Glaucomatous,User 4
+2,0.6470588254583162,Glaucomatous,User 4
+3,0.7692307692034511,Glaucomatous,User 4
+4,0.6481481478596,Glaucomatous,User 4
+5,0.6972477067618423,Glaucomatous,User 4
+6,0.6708860760764692,Glaucomatous,User 4
+7,0.6074766355398264,Glaucomatous,User 4
+8,0.7407407406267463,Glaucomatous,User 4
+9,0.45999999991772905,Glaucomatous,User 4
+10,0.4714285711322779,Glaucomatous,User 4
+11,0.6796116499255331,Glaucomatous,User 4
+12,0.4599999999168983,Glaucomatous,User 4
+13,0.6760563378842984,Glaucomatous,User 4
+14,0.6822429907025952,Glaucomatous,User 4
+15,0.6617647057228219,Glaucomatous,User 4
+16,0.7532467535266387,Glaucomatous,User 4
+17,0.662500000307049,Glaucomatous,User 4
+18,0.8020833331860535,Glaucomatous,User 4
+19,0.7741935485314714,Glaucomatous,User 4
+20,0.5151515148236638,Non-glaucomatous,User 4
+21,0.47368421063374183,Non-glaucomatous,User 4
+22,0.34177215186103177,Non-glaucomatous,User 4
+23,0.47500000014435884,Non-glaucomatous,User 4
+24,0.4887218053989684,Non-glaucomatous,User 4
+25,0.5094339622375252,Non-glaucomatous,User 4
+26,0.5471698112944575,Non-glaucomatous,User 4
+27,0.2923076923021603,Non-glaucomatous,User 4
+28,0.09210526320585266,Non-glaucomatous,User 4
+29,0.23943661955139736,Non-glaucomatous,User 4
+30,0.32786885249257414,Non-glaucomatous,User 4
+31,0.3333333334351738,Non-glaucomatous,User 4
+32,0.271428571572229,Non-glaucomatous,User 4
+33,0.21782178216002074,Non-glaucomatous,User 4
+34,0.2677165351769936,Non-glaucomatous,User 4
+35,0.5,Non-glaucomatous,User 4
+36,0.42352941193340143,Non-glaucomatous,User 4
+37,0.4328358208301848,Non-glaucomatous,User 4
+38,0.3900000001883643,Non-glaucomatous,User 4
+39,0.5512820510554712,Non-glaucomatous,User 4
+0,0.5964912278211494,Glaucomatous,User 5
+1,0.0,Glaucomatous,User 5
+2,0.5392156869555248,Glaucomatous,User 5
+3,0.6065573769805978,Glaucomatous,User 5
+4,0.516853932370755,Glaucomatous,User 5
+5,0.6538461543618325,Glaucomatous,User 5
+6,0.5833333332278805,Glaucomatous,User 5
+7,0.5882352941390541,Glaucomatous,User 5
+8,0.7692307692582244,Glaucomatous,User 5
+9,1.0,Glaucomatous,User 5
+10,0.0,Glaucomatous,User 5
+11,0.7058823539094619,Glaucomatous,User 5
+12,0.0,Glaucomatous,User 5
+13,0.7894736842631068,Glaucomatous,User 5
+14,0.7159090910369121,Glaucomatous,User 5
+15,0.7037037035094914,Glaucomatous,User 5
+16,0.7704918031787373,Glaucomatous,User 5
+17,1.0,Glaucomatous,User 5
+18,0.7820512823220204,Glaucomatous,User 5
+19,0.8732394363638533,Glaucomatous,User 5
+20,0.43037974703369825,Non-glaucomatous,User 5
+21,20.499999965200793,Non-glaucomatous,User 5
+22,0.23076923073589262,Non-glaucomatous,User 5
+23,0.477611940364173,Non-glaucomatous,User 5
+24,0.4208110298350308,Non-glaucomatous,User 5
+25,0.5294117645108131,Non-glaucomatous,User 5
+26,0.5172413794206879,Non-glaucomatous,User 5
+27,0.15157618065866266,Non-glaucomatous,User 5
+28,0.10169491498098746,Non-glaucomatous,User 5
+29,0.2962962965648101,Non-glaucomatous,User 5
+30,0.34020618548920667,Non-glaucomatous,User 5
+31,0.34426229538893804,Non-glaucomatous,User 5
+32,0.016444791701122775,Non-glaucomatous,User 5
+33,0.11249999989797677,Non-glaucomatous,User 5
+34,0.24038461546537732,Non-glaucomatous,User 5
+35,0.45052998232124947,Non-glaucomatous,User 5
+36,0.305488092075587,Non-glaucomatous,User 5
+37,0.3333333334769846,Non-glaucomatous,User 5
+38,0.42499999988400233,Non-glaucomatous,User 5
+39,0.5423728815535191,Non-glaucomatous,User 5
+0,0.7276682034888955,Glaucomatous,Average
+1,0.5871035010157585,Glaucomatous,Average
+2,0.6145755198441027,Glaucomatous,Average
+3,0.7011534776004412,Glaucomatous,Average
+4,0.6318006442442828,Glaucomatous,Average
+5,0.6895385335734875,Glaucomatous,Average
+6,2.8940319143868183,Glaucomatous,Average
+7,0.6156617788274773,Glaucomatous,Average
+8,0.7594869831713825,Glaucomatous,Average
+9,0.6593825074011382,Glaucomatous,Average
+10,0.460035498334236,Glaucomatous,Average
+11,0.6635599632373393,Glaucomatous,Average
+12,0.5076636132262905,Glaucomatous,Average
+13,0.6388161614833413,Glaucomatous,Average
+14,0.6389005193955,Glaucomatous,Average
+15,0.670643295705705,Glaucomatous,Average
+16,0.7576780489668922,Glaucomatous,Average
+17,0.7271409931762349,Glaucomatous,Average
+18,0.7635235129926058,Glaucomatous,Average
+19,0.7997766389011289,Glaucomatous,Average
+20,0.5560926710004974,Non-glaucomatous,Average
+21,3.863837800169236,Non-glaucomatous,Average
+22,0.31296916559375965,Non-glaucomatous,Average
+23,0.49618499841910557,Non-glaucomatous,Average
+24,0.4775205278031991,Non-glaucomatous,Average
+25,0.555293071614028,Non-glaucomatous,Average
+26,0.5622334475040721,Non-glaucomatous,Average
+27,0.42678347946700024,Non-glaucomatous,Average
+28,0.31857452108290507,Non-glaucomatous,Average
+29,0.3656329050387948,Non-glaucomatous,Average
+30,0.5033268009855044,Non-glaucomatous,Average
+31,0.39957927577492675,Non-glaucomatous,Average
+32,0.28496257251680746,Non-glaucomatous,Average
+33,0.33743719921286397,Non-glaucomatous,Average
+34,0.3441475342296059,Non-glaucomatous,Average
+35,0.4706822177819447,Non-glaucomatous,Average
+36,0.3990847948713681,Non-glaucomatous,Average
+37,0.41298513432269884,Non-glaucomatous,Average
+38,0.4400496795165272,Non-glaucomatous,Average
+39,0.5289085852086117,Non-glaucomatous,Average
+0,0.4838709677419355,Non-glaucomatous,SS-MODEL
+1,0.594059405940594,Non-glaucomatous,SS-MODEL
+2,0.4050632911392405,Non-glaucomatous,SS-MODEL
+3,0.45348837209302323,Non-glaucomatous,SS-MODEL
+4,0.5918367346938775,Non-glaucomatous,SS-MODEL
+5,0.5339805825242718,Non-glaucomatous,SS-MODEL
+6,0.59,Non-glaucomatous,SS-MODEL
+7,375,Non-glaucomatous,SS-MODEL
+8,0.3783783783783784,Non-glaucomatous,SS-MODEL
+9,0.373134328358209,Non-glaucomatous,SS-MODEL
+10,0.4943820224719101,Non-glaucomatous,SS-MODEL
+11,0.4533333333333333,Non-glaucomatous,SS-MODEL
+12,0.38235294117647056,Non-glaucomatous,SS-MODEL
+13,0.3918918918918919,Non-glaucomatous,SS-MODEL
+14,0.4777777777777778,Non-glaucomatous,SS-MODEL
+15,0.39436619718309857,Non-glaucomatous,SS-MODEL
+16,0.45,Non-glaucomatous,SS-MODEL
+17,0.4507042253521127,Non-glaucomatous,SS-MODEL
+18,0.5263157894736842,Non-glaucomatous,SS-MODEL
+19,0.4819277108433735,Non-glaucomatous,SS-MODEL
+20,0.21621621621621623,Glaucomatous,SS-MODEL
+21,0.57,Glaucomatous,SS-MODEL
+22,0.5977011494252874,Glaucomatous,SS-MODEL
+23,0.6,Glaucomatous,SS-MODEL
+24,0.5288461538461539,Glaucomatous,SS-MODEL
+25,0.6438356164383562,Glaucomatous,SS-MODEL
+26,0.5584415584415584,Glaucomatous,SS-MODEL
+27,0.5784313725490197,Glaucomatous,SS-MODEL
+28,0.6263736263736264,Glaucomatous,SS-MODEL
+29,0.5102040816326531,Glaucomatous,SS-MODEL
+30,0.3972602739726027,Glaucomatous,SS-MODEL
+31,0.5375,Glaucomatous,SS-MODEL
+32,0.5212765957446809,Glaucomatous,SS-MODEL
+33,0.5128205128205128,Glaucomatous,SS-MODEL
+34,0.5882352941176471,Glaucomatous,SS-MODEL
+35,0.5428571428571428,Glaucomatous,SS-MODEL
+36,0.5294117647058824,Glaucomatous,SS-MODEL
+37,0.5714285714285714,Glaucomatous,SS-MODEL
+38,0.7422680412371134,Glaucomatous,SS-MODEL
+39,0.5441176470588235,Glaucomatous,SS-MODEL
+0,0.5580736543909348,Non-glaucomatous,TS-MODEL
+1,0.650853889943074,Non-glaucomatous,TS-MODEL
+2,0.44510385756676557,Non-glaucomatous,TS-MODEL
+3,0.6746765249537893,Non-glaucomatous,TS-MODEL
+4,0.5986394557823129,Non-glaucomatous,TS-MODEL
+5,0.5906735751295337,Non-glaucomatous,TS-MODEL
+6,0.6306068601583114,Non-glaucomatous,TS-MODEL
+7,0.578125,Non-glaucomatous,TS-MODEL
+8,0.47883597883597884,Non-glaucomatous,TS-MODEL
+9,0.4440894568690096,Non-glaucomatous,TS-MODEL
+10,0.4797297297297297,Non-glaucomatous,TS-MODEL
+11,0.6458752515090543,Non-glaucomatous,TS-MODEL
+12,0.5865168539325842,Non-glaucomatous,TS-MODEL
+13,0.38869257950530034,Non-glaucomatous,TS-MODEL
+14,0.47019867549668876,Non-glaucomatous,TS-MODEL
+15,0.5973154362416108,Non-glaucomatous,TS-MODEL
+16,0.48013245033112584,Non-glaucomatous,TS-MODEL
+17,0.5309734513274337,Non-glaucomatous,TS-MODEL
+18,0.5950413223140496,Non-glaucomatous,TS-MODEL
+19,0.597051597051597,Non-glaucomatous,TS-MODEL
+20,0.6826347305389222,Glaucomatous,TS-MODEL
+21,0.6189189189189189,Glaucomatous,TS-MODEL
+22,0.6564102564102564,Glaucomatous,TS-MODEL
+23,0.6862170087976539,Glaucomatous,TS-MODEL
+24,625,Glaucomatous,TS-MODEL
+25,0.55859375,Glaucomatous,TS-MODEL
+26,0.7381974248927039,Glaucomatous,TS-MODEL
+27,0.6103896103896104,Glaucomatous,TS-MODEL
+28,0.7381489841986456,Glaucomatous,TS-MODEL
+29,0.6730769230769231,Glaucomatous,TS-MODEL
+30,0.6307053941908713,Glaucomatous,TS-MODEL
+31,0.47840531561461797,Glaucomatous,TS-MODEL
+32,0.7837301587301587,Glaucomatous,TS-MODEL
+33,0.6913319238900634,Glaucomatous,TS-MODEL
+34,0.7263427109974424,Glaucomatous,TS-MODEL
+35,0.7411003236245954,Glaucomatous,TS-MODEL
+36,0.7710843373493976,Glaucomatous,TS-MODEL
+37,0.6707920792079208,Glaucomatous,TS-MODEL
+38,0.7540322580645161,Glaucomatous,TS-MODEL
+39,0.6415929203539823,Glaucomatous,TS-MODEL
